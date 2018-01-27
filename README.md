@@ -1,2 +1,0 @@
-# vuePizza
-vue_pizza

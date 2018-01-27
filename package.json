@@ -1,0 +1,23 @@
+{
+  "name": "vuepizza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vue-cli": "^2.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoranLi/vuePizza.git"
+  },
+  "author": "yukun li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoranLi/vuePizza/issues"
+  },
+  "homepage": "https://github.com/MoranLi/vuePizza#readme"
+}
