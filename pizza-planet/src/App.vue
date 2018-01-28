@@ -2,8 +2,11 @@
   <div id="app">
     <div class="container">
       <pp-header></pp-header>
-      <!-- <pp-home></pp-home> -->
-      <pp-menu></pp-menu>
+    </div>
+    <div class="container">
+      <pp-admin></pp-admin>
+    </div>
+    <div class="container">
       <pp-footer></pp-footer>
     </div>
   </div>
@@ -14,12 +17,14 @@ import header from './components/header.vue'
 import footer from './components/footer.vue'
 import home from './components/home.vue'
 import menu from './components/menu.vue'
+import admin from './components/admin.vue'
 export default {
   components: {
     ppHeader : header,
     ppFooter : footer,
     ppHome : home,
-    ppMenu : menu
+    ppMenu : menu,
+    ppAdmin : admin
   }
 }
 </script>
